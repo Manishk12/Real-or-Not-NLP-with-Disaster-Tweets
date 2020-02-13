@@ -11,3 +11,10 @@ for this particluar problem, our submissions will be evaluated using F1 between 
 -Recall, also called sensitivity, is the ability of a test to correctly identify positive results to get the true positive rate.\
 -The F score reaches the best value, meaning perfect precision and recall, at a value of 1. The worst F score, which means lowest precision and lowest recall, would be a value of 0.
 
+# Table of Contents of My Code
+1. Importing the necessary libraries\
+2. Reading the datasets\
+3. Basic EDA\
+4. Text data processin
+5. Transforming tokens to vector\
+6. Buiding a Text Classification model.
